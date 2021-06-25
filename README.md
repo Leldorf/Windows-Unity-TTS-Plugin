@@ -1,5 +1,6 @@
 # Unity_TTS_API
-Unity Text To Speech APi
+
+Windows Unity Text To Speech APi using SpVoice
 
 Unity TTS example project in TTS_Example
 
