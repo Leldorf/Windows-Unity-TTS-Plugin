@@ -1,4 +1,4 @@
-# Unity_TTS_API
+# Windows-Unity-TTS-API
 
 Windows Unity Text To Speech API using SpVoice
 
