@@ -33,6 +33,6 @@ SetVoice(int)
 SetVoice(string)
   -> set voice by name
 
-TTS DLL code in TTSDLL
+TTSDLL: TTS DLL code
 
 
