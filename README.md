@@ -1,9 +1,3 @@
-# Windows-Unity-TTS-Plugin
-
-
-<hr>
-
-
 # Windows Unity Text To Speech API with SpVoice
 
 TTS_Example: Unity TTS example scene
