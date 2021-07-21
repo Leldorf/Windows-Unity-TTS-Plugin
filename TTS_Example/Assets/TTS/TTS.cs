@@ -62,7 +62,7 @@ public class TTS : MonoBehaviour
         return str;
     }
 
-    public List<string> GetVoiceNmaes()
+    public List<string> GetVoiceNames()
     {
         int count = GetVoiceCount(tts);
         List<string> names = new List<string>();
