@@ -4,7 +4,7 @@
 <hr>
 
 
-#Windows Unity Text To Speech API with SpVoice
+# Windows Unity Text To Speech API with SpVoice
 
 TTS_Example: Unity TTS example scene
 
@@ -16,7 +16,7 @@ Unity_TTS_API\TTS_Example\Assets\Scenes\TTSExampleScene.unity
 <hr>
 
 
-#TTS_Application: C++ TTS example code
+# TTS_Application: C++ TTS example code
 
 ![image](https://user-images.githubusercontent.com/86466517/126476893-bc7088ac-65da-4954-802c-29d3554c6f98.png)
 
@@ -24,7 +24,7 @@ Unity_TTS_API\TTS_Example\Assets\Scenes\TTSExampleScene.unity
 <hr>
 
 
-#TTS.cs
+# TTS.cs
 
 GetVoice()
   -> get now voice name
