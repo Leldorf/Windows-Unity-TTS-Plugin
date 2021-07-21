@@ -17,7 +17,7 @@ public class VoiceSelector : MonoBehaviour
         {
             tts = GameObject.Find("TTS").GetComponent<TTS>();
         }
-        List<string> names = tts.GetVoiceNmaes();
+        List<string> names = tts.GetVoiceNames();
 
         foreach(string name in names)
         {
