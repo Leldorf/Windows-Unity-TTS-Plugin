@@ -42,6 +42,6 @@ SetVoice(string)
 
 TTSDLL: TTS DLL code
 
-DLL in TTSDLL\TTSDLL\x64\Release\TTSDLL.dll
+DLL in TTSDLL\x64\Release\TTSDLL.dll
 
 
